@@ -1,3 +1,5 @@
+# NODEJS
+
 NodeJS es un entorno de ejecución de JavaScript fuera del navegador. Se crea en 2009, orientado a servidores. Es muy importante que esté fuera del navegador debido a que ya no es necesario un navegador web para ejecutar código JavaScript.
 
 Características principales de JavaScript:
